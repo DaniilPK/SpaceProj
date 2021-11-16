@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Space Set/3D Free Modular Kit/New Folder/Test_Map.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
